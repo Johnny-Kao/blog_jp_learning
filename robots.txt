@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Allow: /images/
+Allow: /page/
+
+
+Sitemap: https://indeedinvest.info/blog_js_learning/sitemap.xml
